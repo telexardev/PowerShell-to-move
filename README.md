@@ -11,6 +11,6 @@ Months => Integer number of the Months go behind
 -excludeProcessing => Exlcude processing folder  
 -excludePPK => exclude .ppk ext files  
 
-## Example Usage
+### Example Usage
 .\backup_script.ps1 -monthsBack <Months> -sourceFolder "<Path>" -destinationFolder "<Path>"  -excludePPK -delete
 
